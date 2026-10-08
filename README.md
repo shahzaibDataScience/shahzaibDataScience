@@ -2,7 +2,7 @@
 
 🎓 **BS Data Science** student at UET Peshawar
 🤖 Into **Machine Learning**, **Computer Vision** & **Data Analytics**
-📍 Peshawar, Pakistan
+📍 Pakistan
 
 ---
 
