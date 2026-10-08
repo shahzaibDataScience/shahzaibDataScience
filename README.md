@@ -6,6 +6,11 @@
 
 ---
 
+### 📈 GitHub Stats
+
+![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaibDataScience&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibDataScience&layout=compact&theme=radical)
+
 ### 📚 Data Science Foundations
 - **Math & Statistics:** Statistics, Probability, Linear Algebra
 - **Data Handling:** Data cleaning, wrangling & Exploratory Data Analysis (EDA)
