@@ -21,7 +21,7 @@
 ### 📊 Featured Project
 **🌿 Plant Leaf Nutrient Deficiency Detection** (Final Year Project)
 EfficientNetB0 transfer learning on 11,150 leaf images across 8 classes (Boron, Calcium, Healthy, Iron, Magnesium, Manganese, Potassium, Sulphur) — **86.65% test accuracy**.
-→ [View project](https://github.com/shahzaibDataScience/banana-plant-nutrient-dificiency)
+→ [View project](https://github.com/shahzaibDataScience/banana-plant-nutrient-deficiency)
 
 ### 💼 Experience
 **AI Intern** — National Center of Artificial Intelligence (NCAI), UET Peshawar *(Jun 2025 – Dec 2025)*
