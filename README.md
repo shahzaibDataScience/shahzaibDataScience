@@ -6,10 +6,16 @@
 
 ---
 
+### 📚 Data Science Foundations
+- **Math & Statistics:** Statistics, Probability, Linear Algebra
+- **Data Handling:** Data cleaning, wrangling & Exploratory Data Analysis (EDA)
+- **Machine Learning:** Regression, Classification, Clustering, Model Evaluation
+- **Visualization:** Charts, dashboards & storytelling with data
+
 ### 🛠️ Tech Stack
 - **Languages:** Python, SQL
-- **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras, PostgreSQL
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn
+- **Data & BI:** PostgreSQL, Power BI, Tableau
 - **Tools:** Git, Jupyter, VS Code
 
 ### 📊 Featured Project
