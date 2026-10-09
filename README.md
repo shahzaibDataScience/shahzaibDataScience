@@ -33,6 +33,7 @@ EfficientNetB0 transfer learning on 11,150 leaf images across 8 classes (Boron, 
 **Foundation**
 - 🧹 [Pandas Data Cleaning & EDA](https://github.com/shahzaibDataScience/pandas-data-cleaning-eda) — messy sales data (510 rows) cleaned step-by-step
 - 📊 [Data Visualization with Python](https://github.com/shahzaibDataScience/data-visualization-python) — 7 chart types on 5,000 employee records
+- 🗄️ [SQL for Data Analysis](https://github.com/shahzaibDataScience/sql-data-analysis) — 10,000 orders queried with JOINs & window functions
 - 🔍 [Superstore Sales EDA](https://github.com/shahzaibDataScience/superstore-sales-eda) — business case study on 10,000 orders
 
 **Intermediate**
